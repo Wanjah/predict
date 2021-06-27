@@ -1,0 +1,165 @@
+Milk,Maize,Green grams,Cabbage,Whole
+Milk,Maize,French beans,Kales,Whole
+OrangeJuice,Maize,Peas,Spinach,Whole
+Cocoa,Maize,Beans,Lettuce,Whole
+LemonTea,Maize,Bush peas,Cauliflower,Whole
+HerbalTea,Maize,Kamande,Broccolli,Whole
+OrangeJuice,Maize,Njahi,Sprouts,Whole
+DietSoda,Ugali,Green grams,Lentils,Whole
+Lemonade,Ugali,French beans,Carrots,Whole
+SugarcaneJuice,Ugali,Peas,Pumpkins,Whole
+GrapeJuice,Ugali,Beans,Terere,Whole
+EnergyDrink,Ugali,Beef,Oranges(Citrus),Whole
+Milk,Ugali,Mutton,Apples,Whole
+Milk,Ugali,Pork,Mangoes,Whole
+Milk,Maize,Fish,Plums,Whole
+Milk,Ugali,Chicken,Banana,Whole
+Milk,Maize,Green grams,Pawpaw,Whole
+Milk,BreakfastCereal,Peanuts,Pears,Whole
+Tea,BreakfastCereal,Almonds,Sugar cane,Whole
+Coffee,BreakfastCereal,Macadamia,Tomatoes,Whole
+SourMilk,BreakfastCereal,Walnut,Pomagranate,Whole
+Porrige,BreakfastCereal,Cashewnuts,Peach,Whole
+Youghurt,BreakfastCereal,Hazelnuts,Strawberries,Whole
+SoyaMilk,BreakfastCereal,Brazil nuts,Gooseberries,Whole
+Cocoa,BreakfastCereal,Peanuts,Pinapple,Whole
+LemonTea,BreakfastCereal,Green grams,Grapes,Whole
+HerbalTea,BreakfastCereal,Chicken,Raspberries,Whole
+OrangeJuice,BreakfastCereal,Milk,Currants,Whole
+Cocoa,BreakfastCereal,Mashrooms,Tomato,Whole
+Milk,BrownRice,Green grams,Cranberries,Whole
+Milk,WhiteRice,Peas,Blackberries,Whole
+Milk,Quinoa,Beans,Blueberries,Whole
+Milk,Yams,Beef,Mulberries,Whole
+Porrige,Potatoes,Mutton,Cabbage,Whole
+Youghurt,Arrowroots,Pork,Kales,Whole
+SoyaMilk,Sweetpotatoes,Fish,Spinach,Whole
+Cocoa,Cassava,Chicken,Lettuce,Whole
+LemonTea,RawBananas,Green grams,Cauliflower,Whole
+HerbalTea,Maize,Almonds,Broccolli,Whole
+OrangeJuice,Yams,Sausages,Sprouts,Whole
+Cocoa,Potatoes,Eggs,Lentils,Whole
+Milk,Arrowroots,Beef,Carrots,Whole
+OrangeJuice,Sweetpotatoes,Beans,Pumpkins,Whole
+DietSoda,Cassava,Bush peas,Terere,Whole
+Lemonade,RawBananas,Njahi,Oranges(Citrus),Whole
+SugarcaneJuice,Maize,Peanuts,Apples,Whole
+GrapeJuice,JerusalemArtichokes,Mutton,Mangoes,Whole
+EnergyDrink,Jicama,Pork,Plums,Whole
+Milk,Parsnip,Fish,Banana,Whole
+Tea,Spaghetti,Chicken,Pawpaw,Whole
+Coffe,Pancakes,Green grams,Pears,Whole
+SourMilk,Croissants,Sausages,Sugar cane,Whole
+Cocoa,Cakes,Eggs,Tomatoes,Whole
+LemonTea,Bread,Beef,Pomagranate,Whole
+HerbalTea,Croissants,Beans,Peach,Whole
+OrangeJuice,Pizza,Bush peas,Strawberries,Whole
+Lemonade,Pasta,Njahi,Gooseberries,Whole
+SoyaMilk,BrownRice,Fish,Pears,Whole
+SugarcaneJuice,Mandazi,Peanuts,Pinapple,Whole
+GrapeJuice,Maize,Mutton,Grapes,Whole
+Cocao,Pancakes,Beaf,Terere,Whole
+OrangeJuice,Maize,Beans,Apples,Whole
+Milk,Maize,Green grams,Cabbage,Whole
+EnergyDrink,WhiteRice,Pork,Raspberries,Whole
+Milk,None,None,None,Beverage
+Tea,None,None,None,Beverage
+Coffee,None,None,None,Beverage
+SourMilk,None,None,None,Beverage
+Porrige,None,None,None,Beverage
+Youghurt,None,None,None,Beverage
+SoyaMilk,None,None,None,Beverage
+Cocoa,None,None,None,Beverage
+LemonTea,None,None,None,Beverage
+HerbalTea,None,None,None,Beverage
+OrangeJuice,None,None,None,Beverage
+Cocoa,None,None,None,Beverage
+LemonTea,None,None,None,Beverage
+HerbalTea,None,None,None,Beverage
+OrangeJuice,None,None,None,Beverage
+DietSoda,None,None,None,Beverage
+Lemonade,None,None,None,Beverage
+SugarcaneJuice,None,None,None,Beverage
+GrapeJuice,None,None,None,Beverage
+EnergyDrink,None,None,None,Beverage
+None,Maize,None,None,Carb
+None,Wheat,None,None,Carb
+None,Ugali,None,None,Carb
+None,BreakfastCereal,None,None,Carb
+None,Oats,None,None,Carb
+None,Millet,None,None,Carb
+None,BrownRice,None,None,Carb
+None,WhiteRice,None,None,Carb
+None,Quinoa,None,None,Carb
+None,Yams,None,None,Carb
+None,Potatoes,None,None,Carb
+None,Arrowroots,None,None,Carb
+None,Sweetpotatoes,None,None,Carb
+None,Cassava,None,None,Carb
+None,RawBananas,None,None,Carb
+None,JerusalemArtichokes,None,None,Carb
+None,Jicama,None,None,Carb
+None,Parsnip,None,None,Carb
+None,Spaghetti,None,None,Carb
+None,Pancakes,None,None,Carb
+None,Barley,None,None,Carb
+None,Cakes,None,None,Carb
+None,Bread,None,None,Carb
+None,Croissants,None,None,Carb
+None,Pizza,None,None,Carb
+None,Pasta,None,None,Carb
+None,Mandazi,None,None,Carb
+None,None,Green grams,None,Protein
+None,None,French beans,None,Protein
+None,None,Peas,None,Protein
+None,None,Beans,None,Protein
+None,None,Bush peas,None,Protein
+None,None,Kamande,None,Protein
+None,None,Njahi,None,Protein
+None,None,Beef,None,Protein
+None,None,Mutton,None,Protein
+None,None,Pork,None,Protein
+None,None,Fish,None,Protein
+None,None,Chicken,None,Protein
+None,None,Mashrooms,None,Protein
+None,None,Peanuts,None,Protein
+None,None,Almonds,None,Protein
+None,None,Macadamia,None,Protein
+None,None,Walnut,None,Protein
+None,None,Cashewnuts,None,Protein
+None,None,Hazelnuts,None,Protein
+None,None,Brazil nuts,None,Protein
+None,None,Peanuts,None,Protein
+None,None,None,Cabbage,Vitamin
+None,None,None,Kales,Vitamin
+None,None,None,Spinach,Vitamin
+None,None,None,Lettuce,Vitamin
+None,None,None,Cauliflower,Vitamin
+None,None,None,Broccolli,Vitamin
+None,None,None,Sprouts,Vitamin
+None,None,None,Lentils,Vitamin
+None,None,None,Carrots,Vitamin
+None,None,None,Pumpkins,Vitamin
+None,None,None,Terere,Vitamin
+None,None,None,Oranges(Citrus),Vitamin
+None,None,None,Apples,Vitamin
+None,None,None,Mangoes,Vitamin
+None,None,None,Plums,Vitamin
+None,None,None,Banana,Vitamin
+None,None,None,Pawpaw,Vitamin
+None,None,None,Pears,Vitamin
+None,None,None,Sugar cane,Vitamin
+None,None,None,Tomatoes,Vitamin
+None,None,None,Pomagranate,Vitamin
+None,None,None,Peach,Vitamin
+None,None,None,Strawberries,Vitamin
+None,None,None,Gooseberries,Vitamin
+None,None,None,Pinapple,Vitamin
+None,None,None,Grapes,Vitamin
+None,None,None,Raspberries,Vitamin
+None,None,None,Currants,Vitamin
+None,None,None,Tomato,Vitamin
+None,None,None,Cranberries,Vitamin
+None,None,None,Blackberries,Vitamin
+None,None,None,Blueberries,Vitamin
+None,None,None,Mulberries,Vitamin
